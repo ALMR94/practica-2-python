@@ -1,0 +1,3 @@
+N=char(raw_input("Escribe tu nombre: "))
+print "Tu nombre es:"
+print N
